@@ -1,4 +1,4 @@
-export function getFormattedTimeStamp() {
+export default function getFormattedTimeStamp() {
   const months = [
     "Jan",
     "Feb",
