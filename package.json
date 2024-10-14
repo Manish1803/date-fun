@@ -1,0 +1,30 @@
+{
+  "name": "date-fun",
+  "version": "1.0.0",
+  "description": "A JavaScript library for easy date formatting and manipulation.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manish1803/date-fun.git"
+  },
+  "keywords": [
+    "date",
+    "timestamp",
+    "js",
+    "time",
+    "format",
+    "dateTime",
+    "lib",
+    "npm"
+  ],
+  "author": "Manish Patil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Manish1803/date-fun/issues"
+  },
+  "homepage": "https://github.com/Manish1803/date-fun#readme"
+}
