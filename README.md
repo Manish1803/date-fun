@@ -15,7 +15,7 @@ npm install date-fun
 To use the getFormattedTimeStamp function, simply import it into your JavaScript file:
 
 ```bash
-import { getFormattedTimeStamp } from 'date-fun';
+import getFormattedTimeStamp from 'date-fun';
 
 const { datePart, timePart } = getFormattedTimeStamp();
 console.log(datePart, timePart); // Outputs: "14 Oct 2024 10:05 AM"
@@ -29,7 +29,7 @@ Here’s an example of how to use the getFormattedTimeStamp function:
 ```bash
 
 // Import the function
-import { getFormattedTimeStamp } from 'date-fun';
+import getFormattedTimeStamp from 'date-fun';
 
 // Get the formatted date and time
 const { datePart, timePart } = getFormattedTimeStamp();

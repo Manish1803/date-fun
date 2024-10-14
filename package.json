@@ -13,12 +13,14 @@
   },
   "keywords": [
     "date",
-    "timestamp",
-    "js",
     "time",
-    "format",
     "dateTime",
+    "api",
+    "timestamp",
+    "format",
     "lib",
+    "js",
+    "ecmascript",
     "npm"
   ],
   "author": "Manish Patil",
